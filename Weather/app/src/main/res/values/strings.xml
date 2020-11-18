@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="welcome">欢迎界面</string>
+    <string name="coldRisk">感冒</string>
+    <string name="dressing">穿衣</string>
+    <string name="ultraviolet">实时紫外线</string>
+    <string name="carWashing">洗车</string>
+    <string name="todo">TODO</string>
+    <string name="life_index">生活指数</string>
+    <string name="divide">|</string>
+    <string name="predict">预报</string>
+</resources>
